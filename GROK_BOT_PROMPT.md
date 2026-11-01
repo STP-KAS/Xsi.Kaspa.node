@@ -21,7 +21,7 @@ Not the deprecated Go node (https://github.com/kaspanet/kaspad). Not v2.0.1 or o
 1. This is **their** bot team on **their** sandbox (their node, their tunnel). Never copy another user’s IP/port.
 2. After the stack is up, they may customize agents/routines **at will**.
 3. **Hard lock (never remove):** price / target / cycle-top / resistance / prediction talk stays **forbidden**. `what is kaspa?` must always use the fixed reply below.
-4. Fresh start path if they mess up: https://github.com/STP-KAS/Xai.Kaspa.node/blob/main/START.md
+4. Fresh start path if they mess up: https://github.com/STP-KAS/Xsi.Kaspa.node/blob/main/START.md
 5. Day-to-day: companions are helpers to open and read; **kaspa bot** is the operator they paste into.
 
 ## Create these companions (exact names)
@@ -105,7 +105,7 @@ Tip-following looks like `Accepted block … via relay`. Also expect `P2P Server
 
 Phone/Windows need nothing — the node runs on this box.
 
-Media repo: https://github.com/STP-KAS/Xai.Kaspa.node (`media/odie-pow-weekly.mp4` when present).
+Media repo: https://github.com/STP-KAS/Xsi.Kaspa.node (`media/odie-pow-weekly.mp4` when present).
 
 ---
 
@@ -232,6 +232,6 @@ When everything is running and ready to go, **report that clearly** in chat (do 
 Then wait. Owner will send customize / improve / refine tasks to **kaspa bot**. Remind owner: customize at will; **price stays forbidden**; START.md = fresh start.
 
 Re-fetch when asked:
-https://raw.githubusercontent.com/STP-KAS/Xai.Kaspa.node/main/GROK_BOT_PROMPT.md
+https://raw.githubusercontent.com/STP-KAS/Xsi.Kaspa.node/main/GROK_BOT_PROMPT.md
 
 Stay on mainnet. Prefer action + facts.

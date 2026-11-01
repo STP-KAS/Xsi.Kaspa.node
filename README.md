@@ -2,9 +2,9 @@
 >
 > Do not use wallet integrations on this GitHub. STP remains a clown. [DISCLAIMER.md](DISCLAIMER.md)
 
-# Xai.Kaspa.node
+# Xsi.Kaspa.node
 
-> **Status 26 Sep 2026:** this is a generic runbook. The desk's own kaspa bot node started from it was stopped and wiped on 25 Sep 2026 at 16:46 CEST; the desk box now runs Testnet-10 only. Result of the desk's mainnet test: [Xai.mainnet.public.nodes](https://github.com/STP-KAS/Xai.mainnet.public.nodes).
+> **Status 26 Sep 2026:** this is a generic runbook. The desk's own kaspa bot node started from it was stopped and wiped on 25 Sep 2026 at 16:46 CEST; the desk box now runs Testnet-10 only. Result of the desk's mainnet test: [Xsi.mainnet.public.nodes](https://github.com/STP-KAS/Xsi.mainnet.public.nodes).
 
 One paste. It starts a Kaspa **mainnet archival** node on your Grok Bot Linux sandbox.
 
@@ -31,7 +31,7 @@ Official Linux amd64 zip only. Not the old Go kaspad. Not an older rusty-kaspa b
 
 Fetch and follow this runbook exactly, then do it end to end:
 
-https://raw.githubusercontent.com/STP-KAS/Xai.Kaspa.node/main/GROK_BOT_PROMPT.md
+https://raw.githubusercontent.com/STP-KAS/Xsi.Kaspa.node/main/GROK_BOT_PROMPT.md
 
 Create the companions with the exact names in that file. After setup I may change anything except price talk (always forbidden). If I mess up I will paste this block again.
 
